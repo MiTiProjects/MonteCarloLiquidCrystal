@@ -5,4 +5,5 @@ This project aims to investigate the isotropic-nematic phase transition temperat
 
 This study was inspired by the work described in this paper:  
   Isotropic–nematic phase transition in the Lebwohl–Lasher model from density of states simulations,
-  by Raj Shekhar et al., 2012, http://dx.doi.org/10.1063/1.4722209
+  by Raj Shekhar et al., 2012
+  http://dx.doi.org/10.1063/1.4722209
